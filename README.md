@@ -4,9 +4,6 @@ The subject was deliberately chosen by each student in the class, I decided to t
 All the data was registered by the national police forces, who intervened on the locations of the accidents. This dataset was first published in 2019, and last updated in 2021.
 
 The repository contains the following files :
-
-  -> accidents-velos.csv / The CSV file containing bike accidents data.
-  
-  -> analyse.ipynb / A Jupyter Notebook file in which is written my code.
-  
-  -> presentation.pptx (à modifier) / The presentation powerpoint that served as support for the oral presentation.
+  - accidents-velos.csv / The CSV file containing bike accidents data.
+  - analyse.ipynb / A Jupyter Notebook file in which is written my code.
+  - presentation.pptx (à modifier) / The presentation powerpoint that served as support for the oral presentation.
