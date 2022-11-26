@@ -7,3 +7,5 @@ The repository contains the following files :
   - *accidents-velos.csv* / The CSV file containing bike accidents data.
   - *analyse.ipynb* / A Jupyter Notebook file in which is written my code.
   - *presentation.pptx* (à modifier) / The presentation powerpoint that served as support for the oral presentation.
+
+The first version of the Jupyter Notebook file seems to be too heavy to be displayed on the github visualization space. However it is possible to download the code and the CSV file from the repository to run it on your own machine.
